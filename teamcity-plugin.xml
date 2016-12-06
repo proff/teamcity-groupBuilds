@@ -2,9 +2,9 @@
 <teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:schemas-jetbrains-com:teamcity-plugin-v1-xml">
   <info>
     <name>groupBuilds</name>
-    <display-name>groupBuilds</display-name>
+    <display-name>Group builds by project</display-name>
     <version>@Version@</version>
-    <description>Plugin description</description>
+    <description>This plugin allows group build dependencies by project</description>
     <download-url>Plugin download URL</download-url>
     <email>Plugin author e-mail</email>
     <vendor>
